@@ -1,3 +1,3 @@
 import { init } from "./movieApp";
 
-init();
+init(); //Kör igång init-funktionen när sidan laddas
